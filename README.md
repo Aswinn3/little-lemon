@@ -27,11 +27,11 @@ Instructions for cloning the repository and setting up the project locally for d
 
 Clone the Repository
 ```bash
-git clone https://github.com/melissakipp/little-lemon-app.git
+git clone https://github.com/Aswinn3/little-lemon.git
 ```
 Navigate to the Directory
 ```bash
-cd little-lemon-app
+cd little-lemon
 ```
 Install Dependencies
 ```bash 
@@ -86,6 +86,6 @@ The challenges I encountered, especially in functionality the right data to get 
 ## Contact Me
 Feel free to reach out if you have any questions, suggestions or code review.
 
-[<img align="left" alt="melissakipp | LinkedIn" width="39px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aswinn3 | LinkedIn" width="39px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/aswins23/
