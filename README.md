@@ -93,4 +93,4 @@ Feel free to reach out if you have any questions, suggestions or code review.
 
 [<img align="left" alt="melissakipp | LinkedIn" width="39px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/melissajkipp
+[linkedin]: https://www.linkedin.com/in/aswins23/
